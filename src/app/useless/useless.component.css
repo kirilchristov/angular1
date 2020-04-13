@@ -1,0 +1,7 @@
+/* //It can overwrite the bootstrap */
+
+p {
+  color: white;
+  font-weight: bold;
+  background-color: tomato;
+}
